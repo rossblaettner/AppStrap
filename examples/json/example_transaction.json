@@ -1,0 +1,8 @@
+{
+  "transactionId": "example-transaction-001",
+  "eventType": "CONFIG_UPDATE",
+  "path": "Applications/CRM/RetryLimit",
+  "oldValue": 3,
+  "newValue": 5,
+  "override": true
+}

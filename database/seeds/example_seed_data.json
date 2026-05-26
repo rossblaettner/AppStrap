@@ -1,0 +1,25 @@
+{
+  "registry_namespace": [
+    {
+      "namespace_name": "Applications",
+      "description": "Application configuration hierarchy"
+    }
+  ],
+  "registry_node": [
+    {
+      "node_name": "CRM",
+      "canonical_path": "Applications/CRM",
+      "node_type": "DIRECTORY"
+    }
+  ],
+  "registry_value": [
+    {
+      "value_name": "RetryLimit",
+      "value_type": "INTEGER",
+      "value_json": {
+        "value": 5
+      },
+      "override_flag": false
+    }
+  ]
+}
