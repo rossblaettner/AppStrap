@@ -1,0 +1,15 @@
+
+{
+  "path": "Applications/Payments",
+  "owner": "DOMAIN_ADMINISTRATOR",
+  "aces": [
+    {
+      "principal": "BACKUP_OPERATOR",
+      "permissions": [
+        "READ",
+        "BACKUP",
+        "RESTORE"
+      ]
+    }
+  ]
+}

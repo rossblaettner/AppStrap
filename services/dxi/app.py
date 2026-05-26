@@ -1,7 +1,7 @@
 
 from fastapi import FastAPI
 
-app = FastAPI(title="AppStrap Registry Service")
+app = FastAPI(title="AppStrap DXI Service")
 
 @app.get("/health")
 def health():

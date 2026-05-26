@@ -1,0 +1,12 @@
+
+{
+  "globalDefaults": {
+    "RetryLimit": 3
+  },
+  "regionalOverride": {
+    "RetryLimit": 5
+  },
+  "customerOverride": {
+    "RetryLimit": 7
+  }
+}
