@@ -5,7 +5,7 @@
 
 AppStrap is a distributed application-state operating platform inspired by:
 
-- Microsoft Windows Registry
+- Microsoft Server Forest Trust
 - NTFS security inheritance
 - CQRS/event sourcing systems
 - graph databases
